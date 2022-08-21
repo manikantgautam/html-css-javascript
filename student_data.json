@@ -1,1 +1,70 @@
-{"details":[{"name":"Amit","Age":35,"phone":["7123772727","8377478467"],"salary":34000},{"name":"Sumit","Age":45,"phone":["123183588","778234012"],"salary":15000},{"name":"Chaturbuj","Age":19,"phone":["123183588","778234012"],"salary":78000},{"name":"Aman","Age":32,"phone":["123183588","778234012"],"salary":8000},{"name":"Abhinaw","Age":18,"phone":["123183588","778234012"],"salary":189000},{"name":"Balmukund","Age":21,"phone":["123183588","778234012"],"salary":28000},{"name":"Nistha","Age":27,"phone":["123183588","778234012"],"salary":38000},{"name":"Raunak","Age":20,"phone":["123183588","778234012"],"salary":38000},{"name":"Raj","Age":22,"phone":["123183588","778234012"],"salary":18000},{"name":"Vardhman","Age":12,"phone":["9012938494","7823129093"],"salary":98000}]}
+{"details":[{
+	"name": "Amit",
+	"Age": 35,
+	"phone": ["7123772727",
+	"8377478467"],
+	"salary": 34000
+},
+{
+	"name": "Sumit",
+	"Age": 45,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 15000
+},
+{
+	"name": "Chaturbuj",
+	"Age": 19,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 78000
+},
+{
+	"name": "Aman",
+	"Age": 32,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 8000
+},
+{
+	"name": "Abhinaw",
+	"Age": 18,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 189000
+},
+{
+	"name": "Balmukund",
+	"Age": 21,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 28000
+},
+{
+	"name": "Nistha",
+	"Age": 27,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 38000
+},
+{
+	"name": "Raunak",
+	"Age": 20,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 38000
+},
+{
+	"name": "Raj",
+	"Age": 22,
+	"phone": ["123183588",
+	"778234012"],
+	"salary": 18000
+},
+{
+	"name": "Vardhman",
+	"Age": 12,
+	"phone": ["9012938494",
+	"7823129093"],
+	"salary": 98000
+}]}
